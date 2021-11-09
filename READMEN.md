@@ -20,3 +20,13 @@ personales.
 
 Para crear un fork debes iniciar sesion en GitHub y luego ingresar a la landing page del proyecto del que quieras obtener tu Fork.
 
+### Como trabajar con 2 o mas remotos
+
+Listar remoros
+`git remote -v`
+
+Agregar remotos
+`git remote add BinahGit git@github.com:Binahcode/BinahGit.git`
+
+Eliminar remotos
+`git remote remove BinahGit`
